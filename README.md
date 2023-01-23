@@ -30,8 +30,7 @@ This program was completely done by me.
 The hands file works completely, and was tested by Project Euler Poker Hands problem. 
 There are images in my project and I was not 100% sure how you would access them. So I did ImageIcon = new ImageIcon(Images(image folder)/PokerTable.png);
 If that does not work please change the directory to your relative path, I think it should work but just in case it does not.
-This occurs twice, once in Panel.java on Line # 27. It also happens in Controller.java on Line # 255 
-To show who won I tried making some text come up on the system output. It sometimes does not work so that is a little problem. But who wins the round is always right.
+This occurs twice, once in Panel.java on Line # 27. It also happens in Controller.java on Line # 255.
 
 
 
