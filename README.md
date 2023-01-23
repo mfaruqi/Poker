@@ -1,6 +1,3 @@
-
-
-
 This project is creating Poker, it is a one-player game against a CPU.
 This project contanis Texas Holdem poker rules. It has functionality for folding, betting, and checking. 
 From the overall way to bet chips the game the two missing parts are raising a bet and small blind, big blind.
