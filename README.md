@@ -27,11 +27,7 @@ there is no cost in being tight. It is still beatable pretty easily.
 
 
 ERROS:
-My code is usually works well without errors.
-There is a logic problem with the chips sometimes become over 1000, which it should never do because both players start with 500 chips.
-There is also another probelm where sometimes the API crashes and that I am not 100% sure why, I looked into it but was very confused.
-Finally my array in my Controller class sometimes goes out of bounds which I am still trying to fix.
-If any of these happen the cards will not appear and you may have to end the program and restart it.
+The API also has a tendancy to crash, but you can just restart the program and it should spin back up.
 
 
 MISCELLANEOUS:
