@@ -1,5 +1,7 @@
 TO RUN THIS PROGRAM: 
 
+Download the zip file and go into the directory this will be stored (i.e /User/Downloads) and then run the following commands in your terminal:
+
 javac -cp .:json-20201115.jar *.java
 
 java -cp .:json-20201115.jar Poker
