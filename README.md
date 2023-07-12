@@ -26,7 +26,7 @@ The CPU folds on simple commands, with a little bit of randomness and also depen
 there is no cost in being tight. It is still beatable pretty easily.
 
 
-ERROS:
+ERRORS:
 The API also has a tendancy to crash, but you can just restart the program and it should spin back up.
 
 
